@@ -21,6 +21,7 @@ type Server struct {
   Country_code string
   Country_name string
   City_name    string
+  City_code    string
   Active       bool
   Type         string
 }
